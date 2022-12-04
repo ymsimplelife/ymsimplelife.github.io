@@ -1,0 +1,8 @@
+baseURL = 'https://ymsimplelife.github.io/'
+languageCode = 'en-us'
+title = 'yuemachi simplelife Blog'
+theme = 'hugo-theme-stack'
+publishDir = "docs"
+
+[Params]
+	likerID = "yuemachi"
