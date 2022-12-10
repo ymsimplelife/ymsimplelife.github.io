@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'yuemachi simplelife Blog'
 theme = 'hugo-theme-stack'
 publishDir = "docs"
+enableRobotsTXT = true
 
 [Params]
 	likerID = "yuemachi"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.8
