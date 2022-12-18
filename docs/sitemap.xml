@@ -4,34 +4,69 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/categories/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/esg/</loc>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/post/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/tags/shampoo-bar/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/</loc>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E4%BC%81%E6%A5%AD%E6%B0%B8%E7%BA%8C/</loc>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/post/simplelife/carrefour-ecofriendly-shop/</loc>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E7%92%B0%E4%BF%9D/</loc>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
+      <lastmod>2022-12-18T15:19:22+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/shampoo-bar/</loc>
       <lastmod>2022-12-04T15:57:49+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -46,20 +81,6 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/%E6%B4%97%E9%AB%AE%E9%A4%85/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/tags/%E7%92%B0%E4%BF%9D/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
       <lastmod>2022-12-04T15:57:49+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
