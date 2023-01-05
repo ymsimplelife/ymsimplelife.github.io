@@ -4,6 +4,7 @@ title = 'yuemachi simplelife Blog'
 theme = 'hugo-theme-stack'
 publishDir = "docs"
 enableRobotsTXT = true
+enableEmoji  = "true"
 
 [Params]
 	likerID = "yuemachi"
