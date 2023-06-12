@@ -4,28 +4,56 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/</loc>
-      <lastmod>2023-06-10T09:38:54+08:00</lastmod>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/categories/</loc>
-      <lastmod>2023-06-10T09:38:54+08:00</lastmod>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/post/</loc>
-      <lastmod>2023-06-10T09:38:54+08:00</lastmod>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/</loc>
-      <lastmod>2023-06-10T09:38:54+08:00</lastmod>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/post/simplelife/why-i-believe-simple-1/</loc>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E7%B0%A1%E5%96%AE/</loc>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
+      <lastmod>2023-06-10T09:44:16+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
@@ -53,13 +81,6 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/%E6%8C%87%E6%95%B8%E5%8C%96%E6%8A%95%E8%B3%87/</loc>
-      <lastmod>2023-06-10T09:38:54+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
       <lastmod>2023-06-10T09:38:54+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
