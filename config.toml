@@ -5,6 +5,11 @@ theme = 'hugo-theme-stack'
 publishDir = "docs"
 enableRobotsTXT = true
 enableEmoji  = "true"
+enableGitInfo = "true"
+googleAnalytics = "G-7YQ4LLT67S"
+
+[frontmatter]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
 
 [Params]
 	likerID = "yuemachi"
