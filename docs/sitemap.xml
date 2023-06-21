@@ -4,28 +4,56 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/</loc>
-      <lastmod>2023-06-17T15:10:46+08:00</lastmod>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/categories/</loc>
-      <lastmod>2023-06-17T15:10:46+08:00</lastmod>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/post/</loc>
-      <lastmod>2023-06-17T15:10:46+08:00</lastmod>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/</loc>
-      <lastmod>2023-06-17T15:10:46+08:00</lastmod>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E5%85%A8%E7%86%B1%E4%BA%A4%E6%8F%9B%E6%A9%9F/</loc>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E6%9B%B4%E6%96%B0%E6%BF%BE%E7%B6%B2/</loc>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/post/simplelife/energy-recovery-ventilation-experience/</loc>
+      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
@@ -46,13 +74,6 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
-      <lastmod>2023-06-17T15:10:46+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
       <lastmod>2023-06-17T15:10:46+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
