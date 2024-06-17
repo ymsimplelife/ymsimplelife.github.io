@@ -4,28 +4,56 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/</loc>
-      <lastmod>2023-06-22T09:21:27+08:00</lastmod>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/categories/</loc>
-      <lastmod>2023-06-22T09:21:27+08:00</lastmod>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/post/</loc>
-      <lastmod>2023-06-22T09:21:27+08:00</lastmod>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/</loc>
-      <lastmod>2023-06-22T09:21:27+08:00</lastmod>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/tags/%E6%B0%B4%E6%99%B6%E8%82%A5%E7%9A%82/</loc>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/post/simplelife/crystal-soap/</loc>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/categories/%E6%B8%85%E6%BD%94/</loc>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
+      <lastmod>2024-06-17T22:24:20+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
@@ -67,13 +95,6 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/%E6%9B%B4%E6%96%B0%E6%BF%BE%E7%B6%B2/</loc>
-      <lastmod>2023-06-18T19:14:00+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/categories/%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB/</loc>
       <lastmod>2023-06-18T19:14:00+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -333,13 +354,6 @@
   
     <url>
       <loc>https://ymsimplelife.github.io/tags/%E6%B4%97%E9%AB%AE%E9%A4%85/</loc>
-      <lastmod>2022-12-04T15:57:49+08:00</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ymsimplelife.github.io/categories/%E6%B8%85%E6%BD%94/</loc>
       <lastmod>2022-12-04T15:57:49+08:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
